@@ -1,0 +1,5 @@
+{
+  "name": "RadixLex - Smart Radix Trie Dictionary",
+  "description": "A high-performance English dictionary powered by a visualized Radix Trie (Compressed Trie). Features autocomplete, fuzzy search, and real-time data structure visualization.",
+  "requestFramePermissions": []
+}
