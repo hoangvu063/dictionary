@@ -1,0 +1,22 @@
+[
+  { "word": "dog", "definition": "Con chó", "partOfSpeech": "noun", "example": "The dog is barking." },
+  { "word": "dongle", "definition": "Thiết bị kết nối nhỏ", "partOfSpeech": "noun", "example": "I need a USB dongle." },
+  { "word": "door", "definition": "Cửa", "partOfSpeech": "noun", "example": "Please close the door." },
+  { "word": "document", "definition": "Tài liệu", "partOfSpeech": "noun", "example": "Sign this document." },
+  { "word": "double", "definition": "Gấp đôi", "partOfSpeech": "adjective", "example": "A double espresso." },
+  { "word": "doubt", "definition": "Nghi ngờ", "partOfSpeech": "verb", "example": "I doubt it." },
+  { "word": "down", "definition": "Xuống", "partOfSpeech": "adverb", "example": "Sit down." },
+  { "word": "dozen", "definition": "Một tá (12 cái)", "partOfSpeech": "noun", "example": "A dozen eggs." },
+  { "word": "domain", "definition": "Tên miền / Lĩnh vực", "partOfSpeech": "noun", "example": "A new web domain." },
+  { "word": "donate", "definition": "Quyên góp", "partOfSpeech": "verb", "example": "Donate to charity." },
+  { "word": "international", "definition": "Quốc tế", "partOfSpeech": "adjective", "example": "An international agreement." },
+  { "word": "internationalize", "definition": "Quốc tế hóa", "partOfSpeech": "verb", "example": "To internationalize a business." },
+  { "word": "internet", "definition": "Mạng internet", "partOfSpeech": "noun", "example": "Connect to the internet." },
+  { "word": "internal", "definition": "Nội bộ", "partOfSpeech": "adjective", "example": "An internal investigation." },
+  { "word": "interact", "definition": "Tương tác", "partOfSpeech": "verb", "example": "They interact well." },
+  { "word": "comprehend", "definition": "Hiểu", "partOfSpeech": "verb", "example": "I cannot comprehend this." },
+  { "word": "comprehensive", "definition": "Toàn diện", "partOfSpeech": "adjective", "example": "A comprehensive review." },
+  { "word": "compress", "definition": "Nén", "partOfSpeech": "verb", "example": "Compress the files." },
+  { "word": "compromise", "definition": "Thỏa hiệp", "partOfSpeech": "verb", "example": "We need to compromise." },
+  { "word": "computation", "definition": "Sự tính toán", "partOfSpeech": "noun", "example": "Complex computation." }
+]
